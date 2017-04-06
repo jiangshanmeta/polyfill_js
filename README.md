@@ -1,2 +1,1 @@
-# polyfill_js
-javascript中的polyfill
+# javascript中的polyfill

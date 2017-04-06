@@ -1,0 +1,18 @@
+* [前言](README.md)
+* [Function]
+	* [Function.prototype.bind](function/bind.md)
+* [Object](README.md)
+	* [Object.assign](object/assign.md)
+	* [Object.create](object/create.md)
+	* [Object.is](object/is.md)
+	* [Object.prototype.watch](object/watch.md)
+	* [Object.prototype.unwatch](object/unwatch.md)
+* [Array](README.md)
+	* [Array.isArray](array/isarray.md)
+	* [Array.from](array/from.md)
+	* [Array.of](array/of.md)
+
+* [Number](README.md)
+	* [Number.isNaN](number/isnan.md)
+	* [Number.isFinite](number/isfinite.md)
+	* [Number.isInteger](number/isinteger.md)
