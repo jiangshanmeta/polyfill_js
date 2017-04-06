@@ -1,5 +1,5 @@
 * [前言](README.md)
-* [Function]
+* Function
 	* [Function.prototype.bind](function/bind.md)
 * [Object](README.md)
 	* [Object.assign](object/assign.md)
