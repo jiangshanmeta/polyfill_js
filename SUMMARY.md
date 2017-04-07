@@ -23,4 +23,5 @@
 	* [Number.isNaN](number/isnan.md)
 	* [Number.isFinite](number/isfinite.md)
 	* [Number.isInteger](number/isinteger.md)
+	* [Number.isSafeInteger](number/issafeInteger.md)
 * [String](string/README.md)

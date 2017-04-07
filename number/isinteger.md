@@ -2,7 +2,10 @@
 
 #### 语法
 
+```javascript
 Number.isInteger(value)
+```
+
 
 #### 参数
 
