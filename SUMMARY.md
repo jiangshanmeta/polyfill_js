@@ -8,6 +8,8 @@
 	* [Object.keys](object/keys.md)
 	* [Object.values](object/values.md)
 	* [Object.entries](object/entries.md)
+	* [Object.getPrototypeOf](object/getprototypeof.md)
+	* [Object.setPrototypeOf](object/setprototypeof.md)
 	* [Object.prototype.watch](object/watch.md)
 	* [Object.prototype.unwatch](object/unwatch.md)
 * [Array](array/README.md)
