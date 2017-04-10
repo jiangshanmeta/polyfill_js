@@ -16,7 +16,8 @@ Object.values(obj)
 
 ## polyfill
 
-```Object.values```返回一个对象自身可枚举属性值，看到这个描述会不会想起```Object.keys```的描述，前者返回的是值，后者返回的是键。那为啥后者早就成为规范了前者还在草案阶段。言归正传，想要对```Object.values```进行polyfill，最简单的方案就是把```Object.keys```的polyfill拿过来改改就行了。但是那段代码有点长，我们可以直接利用```Object.keys```的结果。
+这个方法返回一个对象自身可枚举属性值，看到这个描述会不会想起```Object.keys```的描述，前者返回的是值，后者返回的是键。那为啥后者早就成为规范了前者还在草案阶段。言归正传，想要对```Object.values```进行polyfill，最简单的方案就是把```Object.keys```的polyfill拿过来改改就行了。但是那段代码有点长，我们可以直接利用```Object.keys```的结果。
+
 
 ```javascript
 if(!Object.values){
