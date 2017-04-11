@@ -20,7 +20,7 @@ Object.create(proto, [ propertiesObject ])
 差不多10年前，有人提出了一种创建对象实现继承的新方式：
 
 
-```
+```javascript
 function create(o){
 	function temp(){};
 	temp.prototype = o;
