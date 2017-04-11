@@ -27,3 +27,7 @@
 	* [Number.isInteger](number/isinteger.md)
 	* [Number.isSafeInteger](number/issafeInteger.md)
 * [String](string/README.md)
+	* [String.prototype.includes](string/includes.md)
+	* [String.prototype.startsWith](string/startswith.md)
+	* [String.prototype.endsWith](string/endswith.md)
+	* [String.prototype.repeat](string/repeat.md)
