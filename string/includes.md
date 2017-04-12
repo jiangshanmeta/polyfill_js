@@ -18,7 +18,7 @@ str.includes(searchString[, position])
 
 ## polyfill
 
-看到这个方法，很容易联想到```Array.prototype.includes```，后者是语义化的```Array.prototype.indexOf```，```String.prototype.includes```是语义化的```String.prototype.indexOf```。所以这个方法polyfill的核心思路就是在```indexOf```进行一层包装。
+看到这个方法，很容易联想到```Array.prototype.includes```，后者是语义化的```Array.prototype.indexOf```，```String.prototype.includes```是语义化的```String.prototype.indexOf```。所以这个方法polyfill的核心思路就是对```indexOf```进行一层包装。
 
 
 ```javascript

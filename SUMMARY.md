@@ -17,8 +17,9 @@
 	* [Array.from](array/from.md)
 	* [Array.of](array/of.md)
 	* [Array.prototype.copyWithin](array/copywithin.md)
-	* [Array.prototype.find](array/find.md)
 	* [Array.prototype.findIndex](array/findindex.md)
+	* [Array.prototype.find](array/find.md)
+	
 	* [Array.prototype.fill](array/fill.md)
 	* [Array.prototype.includes](array/includes.md)
 * [Number](number/README.md)
