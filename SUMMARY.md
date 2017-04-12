@@ -1,10 +1,10 @@
 * [前言](README.md)
 * Function
 	* [Function.prototype.bind](function/bind.md)
-* [Object](object/README.md)
+* Object
+	* [Object.is](object/is.md)
 	* [Object.assign](object/assign.md)
 	* [Object.create](object/create.md)
-	* [Object.is](object/is.md)
 	* [Object.keys](object/keys.md)
 	* [Object.values](object/values.md)
 	* [Object.entries](object/entries.md)
@@ -12,23 +12,24 @@
 	* [Object.setPrototypeOf](object/setprototypeof.md)
 	* [Object.prototype.watch](object/watch.md)
 	* [Object.prototype.unwatch](object/unwatch.md)
-* [Array](array/README.md)
+* Array
 	* [Array.isArray](array/isarray.md)
-	* [Array.from](array/from.md)
 	* [Array.of](array/of.md)
-	* [Array.prototype.copyWithin](array/copywithin.md)
+	* [Array.from](array/from.md)
+	* [Array.prototype.includes](array/includes.md)
 	* [Array.prototype.findIndex](array/findindex.md)
 	* [Array.prototype.find](array/find.md)
-	
 	* [Array.prototype.fill](array/fill.md)
-	* [Array.prototype.includes](array/includes.md)
-* [Number](number/README.md)
+* String
+	* [String.prototype.includes](string/includes.md)
+	* [String.prototype.repeat](string/repeat.md)
+	* [String.prototype.startsWith](string/startswith.md)
+	* [String.prototype.endsWith](string/endswith.md)
+* Number
 	* [Number.isNaN](number/isnan.md)
 	* [Number.isFinite](number/isfinite.md)
 	* [Number.isInteger](number/isinteger.md)
 	* [Number.isSafeInteger](number/issafeInteger.md)
-* [String](string/README.md)
-	* [String.prototype.includes](string/includes.md)
-	* [String.prototype.startsWith](string/startswith.md)
-	* [String.prototype.endsWith](string/endswith.md)
-	* [String.prototype.repeat](string/repeat.md)
+
+
+
