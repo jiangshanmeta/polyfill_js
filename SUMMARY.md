@@ -31,3 +31,4 @@
 	* [String.prototype.startsWith](string/startswith.md)
 	* [String.prototype.endsWith](string/endswith.md)
 	* [String.prototype.repeat](string/repeat.md)
+* [promise](promise.md)
