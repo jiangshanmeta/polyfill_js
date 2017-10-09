@@ -275,7 +275,7 @@ new Promise((resolve,reject)=>{
 所以Promise的实现就非常简单：
 
 ```javascript
-Promise.all = function(obj){
+Promise.resolve = function(obj){
     return new Promise(function(resolve,reject){
         resolve(obj);
     })
