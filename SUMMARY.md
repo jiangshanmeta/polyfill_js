@@ -8,6 +8,7 @@
 	* [Object.keys](object/keys.md)
 	* [Object.values](object/values.md)
 	* [Object.entries](object/entries.md)
+	* [Object.isExtensible](object/isExtensible.md)
 	* [Object.getPrototypeOf](object/getprototypeof.md)
 	* [Object.setPrototypeOf](object/setprototypeof.md)
 	* [Object.prototype.watch](object/watch.md)
